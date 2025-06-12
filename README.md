@@ -26,16 +26,17 @@ This project showcases a practical ELT (Extract, Load, Transform) data pipeline 
 ## ⚙️ Setup & Run
 
 Install dependencies:
-```bash
+``bash
+Install dependencies:
+
 pip install -r requirements.txt
 
 Launch Jupyter Notebook:
 jupyter notebook
 
-
-
 Open pipeline_notebook.ipynb and follow the steps inside.
 Note: Update database credentials in config.py before running the connection cells.
+
 
 🎯 Key Learning Outcomes
 Using Jupyter Notebook to develop and explain ELT pipelines
